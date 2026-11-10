@@ -1,0 +1,7 @@
+{
+  "name": "Komorebi Ambient Focus Studio",
+  "description": "Procedural spatial soundscape mixer, generative binaural beats, customizable flow timer, and distraction-free productivity workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
